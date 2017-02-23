@@ -1,5 +1,7 @@
 instructions to run script
 
+first obtain a Google Maps API key here: https://developers.google.com/maps/documentation/javascript/get-api-key
+
 from the terminal open the interactive ruby shell in the same folder as the google_maps_api_scripts.rb file
 
 load the file by running the following command:

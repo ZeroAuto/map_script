@@ -3,7 +3,7 @@ require 'json'
 
 class PlaceSearch
   # I decided on keyword arguments over an options hash because it involves less boilerplate code
-  def initialize(lat: nil, long: nil, key: "AIzaSyCI33WirMl2FJlzwi5vey0C8T63qnFh4Jg", type: "")
+  def initialize(lat: nil, long: nil, key: "AIzaSyA15ierbUD2StNKxSQ7EUlhkB20vC5ehAw", type: "")
     @lat = lat
     @long = long
     @key = key
